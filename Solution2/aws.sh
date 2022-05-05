@@ -28,4 +28,4 @@ do
     fi
 done
 
-#ssh ec2-user@$EC2_PUBLIC_IP
+ssh ec2-user@$EC2_PUBLIC_IP
